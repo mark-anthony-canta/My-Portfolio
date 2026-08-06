@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="180" viewBox="0 0 260 180">
+  <g fill="none" stroke="#18d8c7" stroke-width="1.4" opacity=".17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 24h26l-7 8H25zM26 22v-4h10v4M31 18v-5"/>
+    <path d="M92 20l-8 8 8 8M106 20l8 8-8 8M102 15l-7 26"/>
+    <path d="M170 18h24v18h-24zM176 23h12M176 28h8"/>
+    <path d="M220 42c9-8 18-8 27 0M224 42v6h19v-6"/>
+    <path d="M42 88c0-8 7-14 15-14s15 6 15 14-7 14-15 14-15-6-15-14zM52 85h10M57 80v10"/>
+    <path d="M122 75h28v20h-28zM127 80h18M127 86h12"/>
+    <path d="M190 86l10-10 10 10-10 10zM200 76v-8M200 104v-8"/>
+    <path d="M18 144h28M22 136h20v16H22zM28 132v4M36 132v4"/>
+    <path d="M86 142h26M90 136h18v12H90zM96 132h6"/>
+    <path d="M150 135c12 0 20 8 20 16h-40c0-8 8-16 20-16zM140 151v5M160 151v5"/>
+    <path d="M210 132l8 8-8 8M234 132l-8 8 8 8M224 127l-6 26"/>
+  </g>
+  <g fill="#18d8c7" opacity=".12" font-family="Arial, sans-serif" font-size="10" font-weight="700">
+    <text x="64" y="56">AI</text><text x="145" y="56">API</text><text x="210" y="112">WP</text><text x="58" y="128">SHOP</text><text x="176" y="118">RAG</text>
+  </g>
+</svg>
